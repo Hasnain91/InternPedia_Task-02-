@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  background-color: #d0ebff;
+  height: 100vh;
+}
+
+.error {
+  color: red;
+}

@@ -1,0 +1,23 @@
+.WeatherCard {
+  color: #e7f5ff;
+  background-color: #1864ab;
+
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 380px;
+  height: auto;
+  margin: 0 auto;
+  text-align: left;
+  box-shadow: 5px 5px 5px #adb5bd;
+}
+
+h2 {
+  margin-bottom: 18px;
+}
+
+.weather-property {
+  margin: 0 5px;
+  line-height: 1.7;
+  font-size: 18px;
+}
